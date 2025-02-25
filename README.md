@@ -12,17 +12,17 @@ This project fetches and displays random quotes from Kanye West using an API.
 
 2. Install dependencies:
    ```bash
-   npm install
+   pip install -r requirements.txt
    ```
 
 ## Usage
 
 1. Start the application:
    ```bash
-   npm start
+   python main.py
    ```
 
-2. Visit `http://localhost:3000` in your browser to see the quotes.
+2. A Tkinter GUI window will open displaying the quotes.
 
 ## Contributing
 
@@ -47,5 +47,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or issues, please get in touch with Tekalig at [your-email@example.com].
-```
+For any questions or issues, please get in touch with Tekalig at [tekahazi06@gmail.com].
